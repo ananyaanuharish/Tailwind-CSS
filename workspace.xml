@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58c7f0af-0989-4190-a436-02dee26b2cbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/p2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/p3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/p4flexhori.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/p4flexvertical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/p5grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/p6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/p7darktheme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/p8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/p9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/p1.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ufJMC5ZdkEgBVxxsH8n0uKgQ9J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58c7f0af-0989-4190-a436-02dee26b2cbd" name="Changes" comment="" />
+      <created>1742633645504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742633645504</updated>
+      <workItem from="1742633646771" duration="27000" />
+      <workItem from="1742634123719" duration="155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
